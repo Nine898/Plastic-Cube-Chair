@@ -1,11 +1,6 @@
 # Plastic-Cube-Chair
 # Virginia Tech WEE Summer Program – Award-Winning Foldable Baby Cube Chair
 
-> **People's Choice Award Winner**
-> Designed, engineered, and manufactured during the Virginia Tech WEE (Workshop for Engineering Education) Summer Program.
-
----
-
 ## Project Overview
 
 During the Virginia Tech WEE Summer Program, my five-person engineering team was challenged to design a compact, affordable, and durable baby cube chair using additive manufacturing. The chair needed to safely support a child, include an integrated tray, be easy to transport, fold into a compact form for storage, and remain inexpensive to manufacture.
@@ -116,7 +111,7 @@ This project reinforced the importance of iterative engineering design and colla
 
 ## Project Outcome
 
-🏆 **People's Choice Award**
+**People's Choice Award**
 
 Our team's final design received the People's Choice Award during the Virginia Tech WEE Summer Program, recognizing the chair as the audience's favorite project among the final presentations.
 
